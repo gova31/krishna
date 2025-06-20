@@ -1,1 +1,3 @@
-print("hello world")
+print("HI GUYS")
+print("HELL WORLD")
+print("EWWWWW")
